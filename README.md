@@ -96,18 +96,26 @@ vs. N for each case. Take a screenshot of your graph and put them here by modify
 it to this repository.
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted):
-![image](https://github.com/user-attachments/assets/76f103c8-8c02-4bec-9966-99568f2effb6)
+![image](Images/Screenshot 2025-11-11 at 2.42.37 PM.png)
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):
-
+![image](Images/Screenshot 2025-11-11 at 2.44.58 PM.png)
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed):
-
+![image](Images/Screenshot 2025-11-11 at 2.49.23 PM.png)
 Bubble Sort and Odd-Even Transposition Sort comparison (already sorted):
-
+![image](Images/Screenshot 2025-11-11 at 3.02.47 PM.png)
 Bubble Sort and Odd-Even Transposition Sort comparison (shuffled):
-
+![image](Images/Screenshot 2025-11-11 at 3.03.21 PM.png)
 Bubble Sort and Odd-Even Transposition Sort comparison (reversed):
+![image](Images/Screenshot 2025-11-11 at 3.03.51 PM.png)
 
+## ChatGPT Interactions:
+### Interaction 1:
+1) Prompt: Can you please finish the Proj3 class for me? I need you to correct my versions of the existing Merge, 
+Bubble, Heap, and Quick sorts. I also need help with running this via commands lines
+
+2) Output (partial since long):
+![image](Images/ChatGPTInteraction.png)
 ## Submission:
 
 Your project will be developed and graded via GitHub. Your final "push" is your final submission, and it must occur 
